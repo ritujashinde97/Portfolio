@@ -9,13 +9,16 @@ a:hover {
 }
 
 body {
-	background-color: rgb(204,221,255);
+	background-color: rgb(153,255,255);
 	color: black;
 	font-family: Arial, Helvetica, sans-serif;
 	text-align : center;
 
 }
 
+hr {
+	color: rgb(51,153,255);
+}
 footer {
 	margin-top: 2rem;
 	margin-bottom: 2rem;
